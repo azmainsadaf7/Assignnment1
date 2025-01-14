@@ -30,7 +30,7 @@ body {
 }
 .banner{
     display: flex;
-    width: 1150px;
+    width: 1100px;
     justify-content: space-between;
     align-items: center;
     padding: 60px;
@@ -75,7 +75,7 @@ body {
     gap: 10px;
     padding: 30px;
     border-radius: 10px;
-    width: 1200;
+    width: 1245px;
     margin: 0 auto;
     
 }
@@ -103,7 +103,7 @@ body {
     gap: 5px;
     padding: 30px;
     border-radius: 10px;
-
+    width: 1255px;
     margin: 0 auto;
     
 }
@@ -204,7 +204,7 @@ body {
     opacity: 100%;
 }
 .quote {
-    
+    width: 1160px;
     
     background-color: white;
     border-radius: 10px;
@@ -212,7 +212,7 @@ body {
     justify-content: space-between;
     
     border-radius: 20px;
-    margin: 50px;
+    margin: 0 auto;
     margin-top: 10px;
 
 }
@@ -230,7 +230,7 @@ body {
     margin-bottom: -50px;
 }
 .Opinion {
-    width: 1280px;
+    width: 1270px;
     margin: 60px 50px;
 
     
@@ -330,7 +330,7 @@ body {
     margin: 120px;
     border-radius: 20px;
     padding: 5px;
-    
+    width: 1100px;
 }
 .p1 {
     width: 1280px;
@@ -435,7 +435,7 @@ body {
     border-radius: 20px;
     margin: 60px;
     margin-top: 5px;
-    width: 1200px;
+    width: 1220px;
     
 }
 .fhead {
