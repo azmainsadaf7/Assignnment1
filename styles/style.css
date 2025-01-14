@@ -229,3 +229,222 @@ body {
 .quote-img{
     margin-bottom: -50px;
 }
+.Opinion {
+    width: 1280px;
+    margin: 60px 50px;
+
+    
+}
+.table-content{
+    width: 1230px;
+    padding: 32px;
+    background-color: white;
+    border-radius: 20px;
+    
+}   
+.thead{
+    font-size: 40px;
+}
+
+.title-tbl {
+    font-size: 20px;
+    background-color: #C6E4D6;
+    text-align: justify;
+    border: black 1px solid;
+    padding: 24px;
+}   
+.td-tbl {
+    border: black 1px solid;
+    padding: 24px;
+    text-align: left 10px;
+    justify-content: space-between;
+    font-size: 16px;
+    font-weight: bold;
+}
+.tbl-btn{
+    width: 200px;
+    font-size: 15px;
+    color: black;
+    background-color: #C6E4D6;
+    cursor: pointer;
+    border-radius: 5px;
+    align-items: center;
+    padding: 10px 20px; 
+    border: black 1px solid;
+    text-align: center;
+    
+}
+.htitle {
+    width: 1200px;
+    font-size: 40px;
+    margin: 50px;
+}
+.hpara {
+    font-size: 16px;
+    font-weight: 350;
+    margin: 50px;
+    margin-top: -20px;
+}
+.news-box {
+    margin: 50px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 32px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.nb-content {
+    padding: 20px;
+}
+.nb-para {
+    font-weight: 350;
+    
+}
+.nb-description {
+    font-weight: 350;
+
+}
+.nb-read {
+    background-color: #006A50;
+    font-size: 18px;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+.Dh {
+    font-size: 40px;
+    text-align: center;
+}
+.Dp{
+    font-size: 16px;
+    font-weight: 350;
+    text-align: center;
+    margin: 100px;
+    margin-top:  10px;
+}
+.D-content{
+    display: flex;
+    justify-content: space-between;
+    margin: 120px;
+    border-radius: 20px;
+    padding: 5px;
+    
+}
+.p1 {
+    width: 1280px;
+    padding: 10px;
+    font-size: 40px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: -80px;
+    margin-bottom: 250px;
+    margin-right: 25px; 
+    text-align: center;
+    border-color: #006A50;
+    font-weight: 400;
+}
+.p2 {
+    width: 1280px;
+    padding: 10px;
+    font-size: 40px;
+    background-color: #C6E4D6;
+    border-radius: 10px;
+    margin-top: -80px;
+    margin-bottom: 250px;
+    margin-right: 20px; 
+    text-align: center;
+    border-color: #006A50;
+    font-weight: 400;
+}
+
+.Donate-btn{
+    background-color: #006A50;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    border: none;
+    align-items: center;
+    margin: 600px;
+    margin-top: -50px;   
+}
+.p3{
+    background-color: white;
+    margin: -330px 160px 80px 160px;
+    padding: 32px;
+    font-size: 18px;
+    border-radius: 10px;
+    font-weight: 200;
+    text-align: center;
+}
+.sh{
+    margin-top: -500px;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 60px;
+}
+.sp{
+    font-size: 16px;
+    font-weight: 350;
+    text-align: center;
+    margin: 100px;
+    margin-top:  10px;
+    
+}
+.s-content{
+    display: flex;
+    border-radius: 20px;
+    margin: -50px 200px 200px 200px ;
+    padding: 5px;
+    justify-content: space-between;
+}
+.ps1 {
+    
+    background-color: white;
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 30px;
+    width: 1000px;
+    margin-bottom: 18px;
+}
+.s-btn {
+    background-color: #006A50;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 30px;
+    font-size: 18px;
+    text-align: center;
+    height: 80px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    font-weight: bold;
+}
+.sp1{
+    text-align: center;
+    font-weight: 350;
+    margin-top: -170px;
+    padding-bottom: 60px;
+}
+.sub {
+    background-color: #C6E4D6;
+    border-radius: 20px;
+    margin: 60px;
+    margin-top: 5px;
+    width: 1200px;
+    
+}
+.fhead {
+    font-size: 32px;
+    text-align: center;
+
+}
+.f-content {
+    align-items: center;
+    margin-left: 628px;
+    margin-bottom: 60px;
+}
